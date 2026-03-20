@@ -3,11 +3,11 @@ import {
     Scene, 
     ArcRotateCamera, 
     Vector3, 
-    HemisphericLight, 
+    // HemisphericLight, 
     DirectionalLight, 
     MeshBuilder, 
     Color3,
-    ShadowGenerator,
+    // ShadowGenerator,
     AxesViewer
 } from "@babylonjs/core";
 import { GridMaterial } from "@babylonjs/materials";
